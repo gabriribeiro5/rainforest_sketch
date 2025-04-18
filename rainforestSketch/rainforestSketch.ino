@@ -362,7 +362,7 @@ void SimularFlorestaTropical() {
         }
 
         VerificarDiaHora();                                           // saida do loop NOITE
-        
+          
         momentoFimEvento = micros();
         if (momentoFimEvento < 3600000000 ) { standBy = 1; }            // Fim do dia. Entrar e StandBy entre 00h e 1h
       }

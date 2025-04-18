@@ -8,5 +8,6 @@ An Arduino Sketch that maintains my paludarium alive and communicates with my cl
 - [ ] Activate/Deactivate fan system to simulate wind (activation time and duration are both random)
 - [ ] Stores collected data upon the ecossystem
 - [ ] Connects to webserver via wi-fi
+- [ x ] Collects current date and time on sturtup
 - [ ] Send stored data to webserver
 - [ ] Collect new config file data to update system behavior
